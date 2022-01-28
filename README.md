@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben Ernst</h1>
-<h3 align="center">A Fullstack/Frontend Developer from Israel</h3>
+<h3 align="center">A Fullstack Web Developer from Israel</h3>
 
 - 📫 How to reach me **benernst3@gmail.com**
 
